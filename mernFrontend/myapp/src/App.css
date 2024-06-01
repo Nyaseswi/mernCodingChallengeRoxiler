@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  input {
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  select {
+    margin: 20px;
+    padding: 10px;
+  }
+  
